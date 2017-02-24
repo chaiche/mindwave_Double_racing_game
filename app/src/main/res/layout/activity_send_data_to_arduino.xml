@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.neurosky.mindwavemobiledemo.SendDataToArduinoActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/senddatatoarduino_txv_mind" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="連接腦波儀"
+            android:id="@+id/senddatatoarduino_btn_start"
+            android:layout_gravity="center" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sendData_edt"
+            android:layout_weight="0.20" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="start"
+        android:id="@+id/SendData_startOrstop" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sensor"
+            android:id="@+id/SendData_txv_Dir"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="後退"
+        android:id="@+id/SendData_btn_goBack"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="減速"
+            android:id="@+id/sendData_btn_subspeed" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="加速"
+            android:id="@+id/sendData_btn_addspeed" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/sendData_wave_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tableLayout1"
+        android:background="@xml/sharp"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal|bottom">
+
+    </LinearLayout>
+
+</LinearLayout>

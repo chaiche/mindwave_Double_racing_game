@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_test_sqlite.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_test_sqlite.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_game_start.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_game_start.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_send_data_to_arduino.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_send_data_to_arduino.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/connect_list.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/connect_list.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/first_view.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/first_view.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_game_test.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_game_test.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/fragment_frg_show_wave_form.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/fragment_frg_show_wave_form.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_bluetooth_liv.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_bluetooth_liv.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_connect_wifi.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_connect_wifi.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/main_view.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/main_view.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/layout_wave.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/layout_wave.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_record.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_record.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_show_wave_form.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_show_wave_form.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/layout/fragment_frg_showrecordlist.xml",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/layout/fragment_frg_showrecordlist.xml"
+    }
+]

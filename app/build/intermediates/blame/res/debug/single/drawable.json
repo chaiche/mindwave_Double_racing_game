@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/drawable/runcar.gif",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/drawable/runcar.gif"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/drawable/car.gif",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/drawable/car.gif"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/drawable/lala.gif",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/drawable/lala.gif"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_spn_style.png",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/mipmap-xxhdpi/ic_spn_style.png"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_right.png",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/mipmap-xxhdpi/ic_right.png"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_realcar.png",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/mipmap-xxhdpi/ic_realcar.png"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_left.png",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/mipmap-xxhdpi/ic_left.png"
+    }
+]

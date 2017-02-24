@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/raw/victory1.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/raw/victory1.mp3"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/raw/tgam_capture.bin",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/raw/tgam_capture.bin"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/raw/jay_jay.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/raw/jay_jay.mp3"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/raw/lose1.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/raw/lose1.mp3"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/raw/victory.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/raw/victory.mp3"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/build/intermediates/res/merged/debug/raw/collision.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile/app/src/main/res/raw/collision.mp3"
+    }
+]
